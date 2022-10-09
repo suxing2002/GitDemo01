@@ -8,7 +8,7 @@ class GitDemo01ApplicationTests {
 
     @Test
     void contextLoads() {
-        System.out.println("hello world");
+
     }
 
 }

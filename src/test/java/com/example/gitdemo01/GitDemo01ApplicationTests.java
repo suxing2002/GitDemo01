@@ -8,7 +8,7 @@ class GitDemo01ApplicationTests {
 
     @Test
     void contextLoads() {
-        Sysytem.out.println("hello world");
+        System.out.println("hello world");
     }
 
 }

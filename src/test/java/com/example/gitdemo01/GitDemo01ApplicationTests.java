@@ -8,7 +8,6 @@ class GitDemo01ApplicationTests {
 
     @Test
     void contextLoads() {
-
     }
 
 }
